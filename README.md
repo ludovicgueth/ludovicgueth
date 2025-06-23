@@ -3,7 +3,7 @@
 I'm Ludovic, we are building a Product Studio at [@Figue](https://figue.io)
 
 
-##11 Our products
+#### Our products
 
 - [ReactIn, your ALL-IN-ONE LinkedIn outreach tool](https://reactin.io)
 - [Gramlab, supercharge your Instagram growth with AI-powered outreach](https://gramlab.io)
